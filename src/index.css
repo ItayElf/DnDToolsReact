@@ -11,3 +11,32 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* dark styling */
+body.dark {
+  background-color: #121212;
+  color: white;
+}
+
+input.dark {
+  background-color: #121212;
+  color: white;
+}
+
+input.btn.dark {
+  background-color: #03dac6;
+  border-color: #03dac6;
+  color: black;
+}
+
+button.btn-primary.dark {
+  background-color: #bb86fc;
+  border-color: #bb86fc;
+  color: black;
+}
+
+button.btn-danger.dark {
+  background-color: #cf6679;
+  border-color: #cf6679;
+  color: black;
+}
